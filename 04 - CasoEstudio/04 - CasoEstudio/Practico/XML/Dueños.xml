@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Dueños>
+
+  <Dueño>
+
+    <Cedula>111</Cedula>
+    <Nombre>Gaston</Nombre>
+    <Direccion>Calle ABC</Direccion>
+    
+  </Dueño>
+
+  <Dueño>
+
+    <Cedula>222</Cedula>
+    <Nombre>Ana</Nombre>
+    <Direccion>Calle 123</Direccion>
+
+  </Dueño>
+
+  <Dueño>
+
+    <Cedula>333</Cedula>
+    <Nombre>Juan</Nombre>
+    <Direccion>Av 25</Direccion>
+
+  </Dueño>
+
+  <Dueño>
+
+    <Cedula>444</Cedula>
+    <Nombre>Romina</Nombre>
+    <Direccion>Calle 5</Direccion>
+
+  </Dueño>
+
+  <Dueño>
+
+    <Cedula>555</Cedula>
+    <Nombre>Diego</Nombre>
+    <Direccion>Calle 10</Direccion>
+
+  </Dueño>
+  
+</Dueños>
+  

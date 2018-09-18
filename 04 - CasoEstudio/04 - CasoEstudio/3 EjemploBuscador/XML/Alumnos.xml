@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Alumnos>
+  <Alumno>
+     <Nombre>Andrea</Nombre>
+     <Apellido>Gomez</Apellido>
+     <Nota>80</Nota>
+    <Materia>POO</Materia>
+  </Alumno>
+  <Alumno>
+     <Nombre>Juan</Nombre>
+     <Apellido>Ramirez</Apellido>
+     <Nota>70</Nota>
+    <Materia>Base de Datos</Materia>
+  </Alumno>
+  <Alumno>
+     <Nombre>Juan</Nombre>
+     <Apellido>Gomez</Apellido>
+     <Nota>45</Nota>
+    <Materia>POO</Materia>
+  </Alumno>
+  <Alumno>
+     <Nombre>Rosana</Nombre>
+     <Apellido>Perez</Apellido>
+     <Nota>90</Nota>
+    <Materia>POO</Materia>
+  </Alumno>
+</Alumnos>

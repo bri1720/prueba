@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Autos>
+  <Auto>
+    <Matricula>AAA1234</Matricula>
+    <Marca>Nissan</Marca>
+    <Modelo>March</Modelo>
+    <Dueño>111</Dueño>
+    <Precio>13000</Precio>
+
+  </Auto>
+
+  <Auto>
+    <Matricula>AAB4321</Matricula>
+    <Marca>Cherry</Marca>
+    <Modelo>QQ</Modelo>
+    <Dueño>222</Dueño>
+    <Precio>8000</Precio>
+
+  </Auto>
+
+  <Auto>
+    <Matricula>AAC1214</Matricula>
+    <Marca>Nissan</Marca>
+    <Modelo>Sentra</Modelo>
+    <Dueño>222</Dueño>
+    <Precio>18000</Precio>
+
+  </Auto>
+
+  <Auto>
+    <Matricula>AAD2124</Matricula>
+    <Marca>Chevrolet</Marca>
+    <Modelo>Camaro</Modelo>
+    <Dueño>333</Dueño>
+    <Precio>45000</Precio>
+
+  </Auto>
+
+  <Auto>
+    <Matricula>AAE5123</Matricula>
+    <Marca>Chevrolet</Marca>
+    <Modelo>Onix</Modelo>
+    <Dueño>444</Dueño>
+    <Precio>11000</Precio>
+
+  </Auto>
+
+  <Auto>
+    <Matricula>AAF1122</Matricula>
+    <Marca>Honda</Marca>
+    <Modelo>Civic</Modelo>
+    <Dueño>555</Dueño>
+    <Precio>13000</Precio>
+
+  </Auto>
+
+  <Auto>
+    <Matricula>AAG3135</Matricula>
+    <Marca>Byd</Marca>
+    <Modelo>F0</Modelo>
+    <Dueño>555</Dueño>
+    <Precio>10000</Precio>
+
+  </Auto>
+
+  <Auto>
+    <Matricula>AAH1231</Matricula>
+    <Marca>BMW</Marca>
+    <Modelo>Z3</Modelo>
+    <Dueño>555</Dueño>
+    <Precio>50000</Precio>
+
+  </Auto>
+
+
+</Autos>
+
